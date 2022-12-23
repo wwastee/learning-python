@@ -18,3 +18,4 @@ dip1 = dipendente('Francesco' , 'Bertolini' , '100k')
 
 print(dip1.nomecompleto())
 print(dip1.emailDip())
+
